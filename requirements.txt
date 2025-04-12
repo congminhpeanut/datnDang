@@ -1,0 +1,11 @@
+streamlit
+numpy==1.26.4
+pandas==2.2.3
+matplotlib==3.9.2
+seaborn==0.13.2
+scikit-learn==1.5.2
+scikit-surprise==1.1.4
+pillow==10.4.0
+underthesea==6.8.4
+joblib==1.4.2
+plotly==6.0.1
