@@ -80,7 +80,7 @@ def main():
     st.set_page_config(layout="wide", page_title="🛒 Hệ thống gợi ý Shopee")
 
     banner = Image.open('shopee-banner-shopee-1.png')
-    st.image(banner, use_column_width=True)
+    st.image(banner, use_container_width=True)
 
     st.title("🛍️ Hệ thống Gợi Ý Sản Phẩm Shopee")
 
